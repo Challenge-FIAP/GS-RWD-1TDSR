@@ -1,0 +1,16 @@
+@media(max-width:849px) {
+    .main_content {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .equipe_footer {
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .integrante_footer {
+        margin: 20px auto;
+        width: 80%;
+    }
+}

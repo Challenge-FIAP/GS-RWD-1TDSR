@@ -1,0 +1,27 @@
+@media(max-width:381px) {
+    header {
+        min-height: 400px;
+        flex-direction: column;
+    }
+
+    header nav {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    header ul {
+        flex-direction: column;
+        width: 100%;
+    }
+
+    header li {
+        margin: 10px auto;
+        min-width: 80%;
+    }
+
+    .logo_img {
+        content: url(../img/aidlygreenlogo.svg);
+        width: 150px;
+    }
+}
