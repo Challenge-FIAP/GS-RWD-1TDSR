@@ -1,0 +1,33 @@
+@media(max-width:505px) {
+    header li {
+        min-height: 50px;
+        align-items: center;
+    }
+    
+    .main_img {
+        width: 100%;
+    }
+    
+    .card {
+        justify-content: center;
+        align-items: center;
+        margin-top: 2px;
+        margin-bottom: 2px;
+    }
+    
+    .card img {
+        width: 80%;
+    }
+
+    .card h2 {
+        text-align: center;
+    }
+
+    .card figcaption {
+        text-align: center;
+    }
+
+    .card figure {
+        flex-direction: column;
+    }
+}

@@ -6,6 +6,7 @@
 @import url("./break-point-980px.css");
 @import url("./break-point-849px.css");
 @import url("./break-point-620px.css");
+@import url("./break-point-505px.css");
 
 body {
     font-family: Arial, sans-serif;
