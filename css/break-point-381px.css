@@ -1,7 +1,7 @@
 @media(max-width:381px) {
     header {
         min-height: 400px;
-        flex-direction: row;
+        flex-direction: column;
     }
 
     header nav {
