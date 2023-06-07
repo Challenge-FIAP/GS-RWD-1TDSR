@@ -1,5 +1,5 @@
 @media(max-width:980px) {
-    nav{
+    nav {
         margin: 20px auto;
         justify-content: center;
         align-items: baseline;
@@ -18,4 +18,4 @@
         margin: 20px auto;
         width: 90%;
     }
- }
+}

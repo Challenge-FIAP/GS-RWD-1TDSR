@@ -7,20 +7,20 @@ footer {
     flex-direction: column;
     align-items: center;
     gap: 20px;
-  }
-  
-  footer nav {
+}
+
+footer nav {
     display: flex;
     gap: 20px;
-  }
-  
-  .equipe_footer {
+}
+
+.equipe_footer {
     display: flex;
     flex-direction: row;
-  
-  }
-  
-  .integrante_footer {
+
+}
+
+.integrante_footer {
     background-color: #424141;
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
@@ -28,5 +28,4 @@ footer {
     width: 40%;
     margin: 5px 5px;
     text-align: center;
-  }
-  
+}
