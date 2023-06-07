@@ -66,3 +66,9 @@
     margin-right: 10px;
     padding: 10px;
 }
+
+#img_form {
+    border-radius: 0%;
+    box-shadow: none;
+    width: 100%;
+}
