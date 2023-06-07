@@ -1,0 +1,9 @@
+@media(max-width:1295px) {
+    header {
+     flex-direction: column;
+    }
+ 
+    nav {
+     margin: 20px auto;
+    }
+ }
