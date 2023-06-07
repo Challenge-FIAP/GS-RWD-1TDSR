@@ -6,4 +6,30 @@
     nav {
         margin: 20px auto;
     }
+    
+    .page_img {
+        width: 100%;
+    }
+
+    .page_img img {
+        width: 100%;
+    }
+
+    .page_scnd_content {
+        flex-direction: column;
+    }
+
+    .page_scnd_text {
+        text-align: center;
+    }
+
+    .page_scnd_img {
+        width: 100%;
+    }
+    
+    
+    .page_trd_text {
+        text-align: center;
+    }
+
 }

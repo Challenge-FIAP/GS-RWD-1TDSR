@@ -1,0 +1,11 @@
+.galeria {
+    max-width: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.img_galeria {
+    margin: 10px auto;
+    width: 70%;
+}
