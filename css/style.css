@@ -1,6 +1,9 @@
 @import url("./cabecalho.css");
 @import url("./conteudo.css");
 @import url("./rodape.css");
+@import url("./break-point-1295px.css");
+@import url("./break-point-1060px.css");
+
 
 body {
     font-family: Arial, sans-serif;

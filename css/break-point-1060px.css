@@ -1,0 +1,14 @@
+@media(max-width:1060px) {
+
+    .content {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+
+    .card {
+        width: 85%;
+    }
+}
